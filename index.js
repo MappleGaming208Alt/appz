@@ -2,7 +2,7 @@ const Fastify = require("fastify");
 const server = Fastify();
 
 server.register(require("@fastify/http-proxy"), {
-	upstream: "https://mapplegaming208alt.github.io/redirect/",
+	upstream: "https://www.startpage.com/",
 	prefix: "/",
 	http2: false,
 });
