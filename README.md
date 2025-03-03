@@ -14,7 +14,7 @@
 
 Press the join button to join our server:
 
-[![Join us on Discord](https://www.google.com/nope)]
+[![Join us on Discord](https://www.google.com/nope)](https://www.google.com/nope)
 
 ## Setup
 
