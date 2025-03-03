@@ -1,4 +1,4 @@
-# A lightweight version of Shuttle v3 (proxies orignal site).
+# A lightweight version of something pls dont take down for credits
 
 [![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://replit.com/new/github/shuttlenetwork/shuttle-lite)
 [![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://github.com/shuttlenetwork/shuttle-lite/wiki#how-to-deploy-to-onrender)
@@ -14,13 +14,13 @@
 
 Press the join button to join our server:
 
-[![Join us on Discord](https://invidget.switchblade.xyz/xi)](https://discord.gg/xi)
+[![Join us on Discord](https://www.google.com/nope)]
 
 ## Setup
 
 ```sh
-git clone https://github.com/shuttlenetwork/shuttle-lite.git
-cd shuttle
+git clone https://github.com/mapplegaming208alt/appz.git
+cd appz
 npm install
 npm start
 ```
