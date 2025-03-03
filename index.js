@@ -2,7 +2,7 @@ const Fastify = require("fastify");
 const server = Fastify();
 
 server.register(require("@fastify/http-proxy"), {
-	upstream: "https://shuttleproxy.com",
+	upstream: "https://mapplegaming208alt.github.io/redirect/",
 	prefix: "/",
 	http2: false,
 });
