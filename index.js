@@ -2,7 +2,7 @@ const Fastify = require("fastify");
 const server = Fastify();
 
 server.register(require("@fastify/http-proxy"), {
-	upstream: "https://gointospace.app/",
+	upstream: "https://www.startpage.com/sp/search",
 	prefix: "/",
 	http2: false,
 });
