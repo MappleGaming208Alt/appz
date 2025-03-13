@@ -2,7 +2,7 @@ const Fastify = require("fastify");
 const server = Fastify();
 
 server.register(require("@fastify/http-proxy"), {
-	upstream: "https://www.startpage.com/sp/search",
+	upstream: "https://www.daydreamx.pro/",
 	prefix: "/",
 	http2: false,
 });
